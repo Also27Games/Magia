@@ -27,7 +27,9 @@ Este repositorio incluye:
 
 - Código C++ del proyecto
 - Blueprints custom (no dependientes del motor)
-- Archivos `.uproject`, `Config/`, `Source/` ⚠️⚠️⚠️(Content NOT INCLUDED FOR COPYRIGHT ASSETS) ⚠️⚠️⚠️
+- Archivos `.uproject`, `Config/`, `Source/`.  
+**Nota:** La carpeta `Content/` no está incluida debido a restricciones de copyright sobre los assets utilizados.
+
 - Archivos README y LICENSE
 
 ---
