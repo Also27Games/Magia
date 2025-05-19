@@ -27,7 +27,7 @@ Este repositorio incluye:
 
 - Código C++ del proyecto
 - Blueprints custom (no dependientes del motor)
-- Archivos `.uproject`, `Config/`, `Source/`, `Content/` 
+- Archivos `.uproject`, `Config/`, `Source/` (Content NOT INCLUDED FOR COPYRIGHT ASSETS)
 - Archivos README y LICENSE
 
 **⚠️ No incluye el motor ni contenido oficial de Epic Games.**  
